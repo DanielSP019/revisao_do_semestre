@@ -92,3 +92,9 @@ img {
 .input-field input:focus{
     outline: none;
 }
+
+#result{
+    display: flex;
+    gap: 2rem;
+    background-color: #ffffff34;
+}
